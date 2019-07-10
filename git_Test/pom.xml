@@ -7,6 +7,9 @@
     <groupId>com.itheima</groupId>
     <artifactId>git_Test</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>../../mayun/health_test</module>
+    </modules>
 
-  <packaging>jar</packaging>
+    <packaging>pom</packaging>
 </project>
